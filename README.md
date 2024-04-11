@@ -25,3 +25,6 @@ Some of the things you can do to contribute to our curriculum include:
 
 ___
 Created by [Erik Trautman](http://www.github.com/eriktrautman)
+
+
+Yay i've updated README file
